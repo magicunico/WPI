@@ -1,0 +1,185 @@
+Movie: 12 Angry Men
+Sentences: 5
+Tokens: 180
+Stemmed forms (unique): 119
+Words from a dictionary (unique): 0
+People: Reginald Rose, Fonda, Marshall, Boris Kaufman
+Locations: Reginald Rose, Fonda, Marshall, Boris Kaufman
+Organizations: Reginald Rose, Fonda, Marshall, Boris Kaufman
+
+Movie: 12 Years a Slave
+Sentences: 31
+Tokens: 1204
+Stemmed forms (unique): 564
+Words from a dictionary (unique): 0
+People: Steve McQueen�s, Solomon Northup, Solomon, After Solomon, William Ford, Paul Dano, Solomon, Edwin Epps, Michael Fassbender, Solomon, Sarah Paulson, Solomon, Solomon, Michael Fassbender, Bobby Sands, John Ridley, Solomon
+Locations: Steve McQueen�s, Solomon Northup, Solomon, After Solomon, William Ford, Paul Dano, Solomon, Edwin Epps, Michael Fassbender, Solomon, Sarah Paulson, Solomon, Solomon, Michael Fassbender, Bobby Sands, John Ridley, Solomon
+Organizations: Steve McQueen�s, Solomon Northup, Solomon, After Solomon, William Ford, Paul Dano, Solomon, Edwin Epps, Michael Fassbender, Solomon, Sarah Paulson, Solomon, Solomon, Michael Fassbender, Bobby Sands, John Ridley, Solomon
+
+Movie: 4 Months, 3 Weeks and 2 Days
+Sentences: 9
+Tokens: 212
+Stemmed forms (unique): 143
+Words from a dictionary (unique): 0
+People: Laura Vasiliu, Vlad Ivanov
+Locations: Laura Vasiliu, Vlad Ivanov
+Organizations: Laura Vasiliu, Vlad Ivanov
+
+Movie: All About Eve
+Sentences: 8
+Tokens: 262
+Stemmed forms (unique): 161
+Words from a dictionary (unique): 0
+People: Joseph L. Mankiewicz, Anne Baxter, Margo Channing
+Locations: Joseph L. Mankiewicz, Anne Baxter, Margo Channing
+Organizations: Joseph L. Mankiewicz, Anne Baxter, Margo Channing
+
+Movie: American Graffiti
+Sentences: 29
+Tokens: 682
+Stemmed forms (unique): 336
+Words from a dictionary (unique): 0
+People: Candles, Curt Henderson, Steve Bolander, John Milner, George Lucas, Steve (, Curt, Laurie, Cindy Williams, Terry, Charlie Martin Smith, Steve 's Chevy, Candy Clark, John, Paul Le Mat, Curt, Richard Dreyfuss, Magic Carpet Airlines, Candy Clark, Richard Dreyfuss, Cindy Williams, George Lucas
+Locations: Candles, Curt Henderson, Steve Bolander, John Milner, George Lucas, Steve (, Curt, Laurie, Cindy Williams, Terry, Charlie Martin Smith, Steve 's Chevy, Candy Clark, John, Paul Le Mat, Curt, Richard Dreyfuss, Magic Carpet Airlines, Candy Clark, Richard Dreyfuss, Cindy Williams, George Lucas
+Organizations: Candles, Curt Henderson, Steve Bolander, John Milner, George Lucas, Steve (, Curt, Laurie, Cindy Williams, Terry, Charlie Martin Smith, Steve 's Chevy, Candy Clark, John, Paul Le Mat, Curt, Richard Dreyfuss, Magic Carpet Airlines, Candy Clark, Richard Dreyfuss, Cindy Williams, George Lucas
+
+Movie: Boyhood
+Sentences: 14
+Tokens: 372
+Stemmed forms (unique): 230
+Words from a dictionary (unique): 0
+People: Richard Linklater�s, Like Michael Apted, Lorelei Linklater, Ethan Hawke, Patricia Arquette, Coltrane
+Locations: Richard Linklater�s, Like Michael Apted, Lorelei Linklater, Ethan Hawke, Patricia Arquette, Coltrane
+Organizations: Richard Linklater�s, Like Michael Apted, Lorelei Linklater, Ethan Hawke, Patricia Arquette, Coltrane
+
+Movie: Casablanca
+Sentences: 11
+Tokens: 339
+Stemmed forms (unique): 225
+Words from a dictionary (unique): 0
+People: Michael Curtiz�s, Ingrid Bergman, Claude Rains, Michael Curtiz, Arthur Edeson
+Locations: Michael Curtiz�s, Ingrid Bergman, Claude Rains, Michael Curtiz, Arthur Edeson
+Organizations: Michael Curtiz�s, Ingrid Bergman, Claude Rains, Michael Curtiz, Arthur Edeson
+
+Movie: Citizen Kane
+Sentences: 6
+Tokens: 295
+Stemmed forms (unique): 179
+Words from a dictionary (unique): 0
+People: William Randolph Hearst, Gregg Toland
+Locations: William Randolph Hearst, Gregg Toland
+Organizations: William Randolph Hearst, Gregg Toland
+
+Movie: Gone with the Wind
+Sentences: 6
+Tokens: 237
+Stemmed forms (unique): 158
+Words from a dictionary (unique): 0
+People: Rhett Butler
+Locations: Rhett Butler
+Organizations: Rhett Butler
+
+Movie: Hoop Dreams
+Sentences: 65
+Tokens: 1602
+Stemmed forms (unique): 543
+Words from a dictionary (unique): 0
+People: William Gates, Arthur Agee, William and Arthur, William, Arthur, Isiah Thomas, Arthur, William, Jordan, Isiah Thomas, Arthur, Arthur, William and Arthur, Arthur Agee, William Gates, Arthur, Arthur, Gene Pingatore, Isiah Thomas, Steve James, Frederick Marx, Peter Gilbert
+Locations: William Gates, Arthur Agee, William and Arthur, William, Arthur, Isiah Thomas, Arthur, William, Jordan, Isiah Thomas, Arthur, Arthur, William and Arthur, Arthur Agee, William Gates, Arthur, Arthur, Gene Pingatore, Isiah Thomas, Steve James, Frederick Marx, Peter Gilbert
+Organizations: William Gates, Arthur Agee, William and Arthur, William, Arthur, Isiah Thomas, Arthur, William, Jordan, Isiah Thomas, Arthur, Arthur, William and Arthur, Arthur Agee, William Gates, Arthur, Arthur, Gene Pingatore, Isiah Thomas, Steve James, Frederick Marx, Peter Gilbert
+
+Movie: Manchester by the Sea
+Sentences: 28
+Tokens: 722
+Stemmed forms (unique): 364
+Words from a dictionary (unique): 0
+People: Lee, Casey Affleck, Joe, Kyle Chandler, Joe, Lee, Patrick, Lucas Hedges, Lee, Michelle Williams, Kenneth, Lonergan, Lee, Lee, Hedges, Patrick, Joe, Patrick, Lee, But
+Locations: Lee, Casey Affleck, Joe, Kyle Chandler, Joe, Lee, Patrick, Lucas Hedges, Lee, Michelle Williams, Kenneth, Lonergan, Lee, Lee, Hedges, Patrick, Joe, Patrick, Lee, But
+Organizations: Lee, Casey Affleck, Joe, Kyle Chandler, Joe, Lee, Patrick, Lucas Hedges, Lee, Michelle Williams, Kenneth, Lonergan, Lee, Lee, Hedges, Patrick, Joe, Patrick, Lee, But
+
+Movie: Moonlight
+Sentences: 12
+Tokens: 416
+Stemmed forms (unique): 237
+Words from a dictionary (unique): 0
+People: Trevante Rhodes, Kevin, Jenkins, Richard Linklater�s, Wong Kar-wai, Pedro Almod�var, Jenkins, Paula, Naomie Harris, Because Jenkins, Collectively, Juan, Alex Hibbert, Harris, Chiron
+Locations: Trevante Rhodes, Kevin, Jenkins, Richard Linklater�s, Wong Kar-wai, Pedro Almod�var, Jenkins, Paula, Naomie Harris, Because Jenkins, Collectively, Juan, Alex Hibbert, Harris, Chiron
+Organizations: Trevante Rhodes, Kevin, Jenkins, Richard Linklater�s, Wong Kar-wai, Pedro Almod�var, Jenkins, Paula, Naomie Harris, Because Jenkins, Collectively, Juan, Alex Hibbert, Harris, Chiron
+
+Movie: My Left Foot
+Sentences: 9
+Tokens: 218
+Stemmed forms (unique): 136
+Words from a dictionary (unique): 0
+People: Christy Brown, Daniel Day-Lewis, Brown, Brenda Fricker, Ray McAnally
+Locations: Christy Brown, Daniel Day-Lewis, Brown, Brenda Fricker, Ray McAnally
+Organizations: Christy Brown, Daniel Day-Lewis, Brown, Brenda Fricker, Ray McAnally
+
+Movie: Pan's Labyrinth
+Sentences: 25
+Tokens: 855
+Stemmed forms (unique): 434
+Words from a dictionary (unique): 0
+People: Doug Jones, Ivana Baquero, Carmen, Carmen, Javier Navarrete�s, Guillermo Navarro
+Locations: Doug Jones, Ivana Baquero, Carmen, Carmen, Javier Navarrete�s, Guillermo Navarro
+Organizations: Doug Jones, Ivana Baquero, Carmen, Carmen, Javier Navarrete�s, Guillermo Navarro
+
+Movie: Psycho
+Sentences: 24
+Tokens: 682
+Stemmed forms (unique): 336
+Words from a dictionary (unique): 0
+People: Alfred Hitchcock, Alfred Hitchcock, Hitchcock, Anthony Perkins, John Gavin, Vera Miles, Martin Balsam, John McIntire, Simon Oakland, Perkins, Joseph Stefano, Robert Block, John L. Russell, Bernard Herrmann, George Milo, Joseph Burly, Robert Clatworthy, Jack Harrison
+Locations: Alfred Hitchcock, Alfred Hitchcock, Hitchcock, Anthony Perkins, John Gavin, Vera Miles, Martin Balsam, John McIntire, Simon Oakland, Perkins, Joseph Stefano, Robert Block, John L. Russell, Bernard Herrmann, George Milo, Joseph Burly, Robert Clatworthy, Jack Harrison
+Organizations: Alfred Hitchcock, Alfred Hitchcock, Hitchcock, Anthony Perkins, John Gavin, Vera Miles, Martin Balsam, John McIntire, Simon Oakland, Perkins, Joseph Stefano, Robert Block, John L. Russell, Bernard Herrmann, George Milo, Joseph Burly, Robert Clatworthy, Jack Harrison
+
+Movie: Ran
+Sentences: 11
+Tokens: 412
+Stemmed forms (unique): 230
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: Singin' in the Rain
+Sentences: 3
+Tokens: 144
+Stemmed forms (unique): 96
+Words from a dictionary (unique): 0
+People: Reynolds, Lucky Star
+Locations: Reynolds, Lucky Star
+Organizations: Reynolds, Lucky Star
+
+Movie: Some Like It Hot
+Sentences: 69
+Tokens: 1512
+Stemmed forms (unique): 560
+Words from a dictionary (unique): 0
+People: Marilyn Monroe, Billy Wilder, Tony Curtis, Jack Lemmon, Curtis, Curtis, Joe E. Brown, Harpo, Frank Sinatra, Wilder, Curtis, Curtis, Marilyn, Curtis, Hitler, Curtis, Joe E. Brown, George Raft, Pat O'Brien, Tony Curtis, Cary Grant, Curtis, When Monroe, Does Wilder, Wilder, Curtis, Joe E. Brown, Brown, Curtis, Brown, Brown
+Locations: Marilyn Monroe, Billy Wilder, Tony Curtis, Jack Lemmon, Curtis, Curtis, Joe E. Brown, Harpo, Frank Sinatra, Wilder, Curtis, Curtis, Marilyn, Curtis, Hitler, Curtis, Joe E. Brown, George Raft, Pat O'Brien, Tony Curtis, Cary Grant, Curtis, When Monroe, Does Wilder, Wilder, Curtis, Joe E. Brown, Brown, Curtis, Brown, Brown
+Organizations: Marilyn Monroe, Billy Wilder, Tony Curtis, Jack Lemmon, Curtis, Curtis, Joe E. Brown, Harpo, Frank Sinatra, Wilder, Curtis, Curtis, Marilyn, Curtis, Hitler, Curtis, Joe E. Brown, George Raft, Pat O'Brien, Tony Curtis, Cary Grant, Curtis, When Monroe, Does Wilder, Wilder, Curtis, Joe E. Brown, Brown, Curtis, Brown, Brown
+
+Movie: The Godfather
+Sentences: 34
+Tokens: 815
+Stemmed forms (unique): 415
+Words from a dictionary (unique): 0
+People: Albert S. Ruddy, Mario Puzo, Al Pacino, Dustin Hoffman, Michael Corleone, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, Francis Ford Coppola, Gordon Willis, Jerry Lewis, Merry Little, Arthur Knight
+Locations: Albert S. Ruddy, Mario Puzo, Al Pacino, Dustin Hoffman, Michael Corleone, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, Francis Ford Coppola, Gordon Willis, Jerry Lewis, Merry Little, Arthur Knight
+Organizations: Albert S. Ruddy, Mario Puzo, Al Pacino, Dustin Hoffman, Michael Corleone, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, Francis Ford Coppola, Gordon Willis, Jerry Lewis, Merry Little, Arthur Knight
+
+Movie: Three Colors Red
+Sentences: 19
+Tokens: 569
+Stemmed forms (unique): 294
+Words from a dictionary (unique): 0
+People: Kieslowski
+Locations: Kieslowski
+Organizations: Kieslowski
+
+---------OVERALL STATISTICS----------
+Verbs: 13,57%
+Nouns: 26,16%
+Adjectives: 8,53%
+Adverbs: 4,81%
